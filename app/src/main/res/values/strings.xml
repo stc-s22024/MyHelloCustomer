@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">名前と住まい</string>
+    <string name="tv_resi">お住まいの地区を入力してください</string>
+    <string name="tv_name">お名前を入力してください</string>
+    <string name="bt_click">表示</string>
+    <string name="CResi">住まいクリア</string>
+    <string name="CName">名前クリア</string>
+</resources>
