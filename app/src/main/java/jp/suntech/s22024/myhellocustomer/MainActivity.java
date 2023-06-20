@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
                 String inputStr2 = input2.getText().toString();
 
-                output.setText(inputStr1 + "にお住いの" + inputStr2 + "さん、こんにちは！");
+                output.setText(inputStr1);
 
             }
 
